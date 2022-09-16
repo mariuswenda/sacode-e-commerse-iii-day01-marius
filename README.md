@@ -1,2 +1,9 @@
-# sacode-e-commerse-iii-day01-marius
-Belajar Git &amp; GitHub
+# Belajar Git &amp; GitHub
+
+## CLI Commands
+
+Perintah membuka folder
+
+```
+cd nama folder
+```
