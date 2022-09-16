@@ -2,8 +2,14 @@
 
 ## CLI Commands
 
-Perintah membuka folder
+Perintah membuka folder dengan ```cd```
 
 ```
 cd nama folder
+```
+
+perintah membuka folder baru Dengan ```mkdir```
+
+```
+mkdir nama folder
 ```
